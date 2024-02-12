@@ -18,6 +18,8 @@
 <h3 align="left"> A little more details:</h3>
 
 - 🌱 I’m currently learning **Tableau**
+- 👀 I am creating Projects at this moment in my Portfolio so please stay tuned.
+- 💞️ I’m open to collaborate on data analysis projects; Job opportunities or volunteer.
 
 - 👨‍💻 All of my projects are available at [https://github.com/khard2bme](https://github.com/khard2bme)
 
