@@ -19,7 +19,7 @@
 
 - 🌱 I’m currently learning **Tableau**
 
-- 👨‍💻 All of my projects are available at [github.com/KHard2Bme/Data-Analytics-Projects]
+- 👨‍💻 All of my projects are available at [https://github.com/khard2bme](https://github.com/khard2bme)
 
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
