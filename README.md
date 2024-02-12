@@ -1,9 +1,21 @@
 
 <h1 align="center">Hi 👋, I'm Kevin Harding</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/khard2bme/khard2bme/main/datascience.jpg"> </div>
-<h3 align="center">I have been working in the Financial Services Sector for about 15 years as a Telecommunications Engineer. I have a Bachelors Degree in Buisness Systems Analysis and a Masters DEgree in Management Information Systems. I am also a United States Marine Corps Veteran.</h3>
+<h3 align="center">
+  I have been working in the Financial Services Sector for about 15 years as a Telecommunications Engineer.
+  
+  
+  I have a Bachelors Degree in Buisness Systems Analysis and a Masters in Management Information Systems.
+  
+  
+  I am also a United States Marine Corps Veteran.
+  </h3>
+  
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khard2bme&label=Profile%20views&color=0e75b6&style=flat" alt="khard2bme" /> </p>
+
+
+<h3 align="left"> A little more details:</h3>
 
 - 🌱 I’m currently learning **Tableau**
 
@@ -11,7 +23,7 @@
 
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
-- ⚡ Fun fact **I recently completed the Google Data Analytics Professional Certification**
+- ⚡ Fun fact **I recently completed the Google Data Analytics Professional Certification and enjoy learning new technologies**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
