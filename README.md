@@ -44,6 +44,13 @@
   <a href="https://www.microsoft.com/en-us/download/details.aspx?id=58494" target="_blank" rel="noreferrer"> <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Desktop.png" title="PowerBI" alt="PowerBI" width="60" height="60"/> </a>
 </p>
 
+<h3 align="left">My Certifications 📜 🎓 ✔️</h3>
+
+- [Google Data Analytics Professional Certification]([https://github.com/mrankitgupta](https://www.coursera.org/account/accomplishments/specialization/7A47V5BZTPJR)) - by Corsera
+
+
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khard2bme&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khard2bme" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khard2bme&show_icons=true&locale=en&theme=tokyonight" alt="khard2bme" /></p>
