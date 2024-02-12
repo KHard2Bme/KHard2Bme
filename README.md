@@ -19,9 +19,8 @@
 
 - 🌱 I’m currently learning **Tableau**
 - 👀 I am creating Projects at this moment in my Portfolio so please stay tuned.
-- 💞️ I’m open to collaborate on data analysis projects; Job opportunities or volunteer.
-
-- 👨‍💻 All of my projects are available at [https://github.com/khard2bme](https://github.com/khard2bme)
+- 💞️ I’m open to collaborate on data analysis projects; Job opportunities or volunteer- 
+- 👨‍💻  My **Portfolio Projects** are in: [Data-Analytics-Projects.](https://github.com/KHard2bme/Data-Analytics-Projects)
 
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
