@@ -25,7 +25,11 @@
 
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
-- ⚡ Fun fact **I recently completed the Google Data Analytics Professional Certification and enjoy learning new technologies**
+- ⚡ Fun fact **I recently completed the Google Data Analytics Professional Certification and continue to learn new technologies [Knowledge is Power]**
+
+- ![IMG](/img/Google_Data_Analytics.pdf)
+
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
