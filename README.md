@@ -24,7 +24,8 @@
 
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
-- ⚡ Fun fact **I recently completed the Google Data Analytics Professional Certification and continue to learn new technologies [Knowledge is Power]**
+- ⚡ Fun fact **I recently completed the Google Data Analytics Professional Certification and love applying what i learned in analyzing data for better storytelling.
+             I also enjoy interacting with other Data Professionals in either learning from or offering advice.  [Win Win on both levels]**
  
 
 <h3 align="left">Connect with me:</h3>
@@ -54,8 +55,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khard2bme&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="khard2bme" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khard2bme&show_icons=true&locale=en&theme=tokyonight" alt="khard2bme" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khard2bme&theme=tokyonight" alt="khard2bme" /></p>
