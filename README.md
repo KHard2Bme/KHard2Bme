@@ -17,15 +17,14 @@
 
 <h3 align="left"> A little more details:</h3>
 
-- 🌱 I’m currently learning **Tableau**
+- 🌱 I’m currently learning **Machine Learning & AI**
 - 👀 I am creating Projects at this moment in my Portfolio so please stay tuned.
 - 💞️ I’m open to collaborate on data analysis projects; Job opportunities or volunteer- 
-- 👨‍💻  My **Portfolio Projects** are in: [Data-Analytics-Projects.](https://github.com/KHard2bme/Data-Analytics-Projects)
-
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
 - ⚡ Fun fact **I recently completed the Google Data Analytics Professional Certification and love applying what i learned in analyzing data for better storytelling.
-             I also enjoy interacting with other Data Professionals in either learning from or offering advice.  [Win Win on both levels]**
+             I enjoy interacting with other Data Professionals in either learning from or offering advice.  [Win Win on both levels]**
+          
  
 
 <h3 align="left">Connect with me:</h3>
