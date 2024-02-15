@@ -20,12 +20,13 @@
 
 - 🌱 I’m currently learning **Machine Learning & AI**
 - 👀 I am creating Projects at this moment in my Portfolio so please stay tuned.
-- 💞️ I’m open to collaborate on data analysis projects; Job opportunities or volunteer- 
+- 💞️ I’m open to collaborate on data analysis projects; Job opportunities or volunteer- am
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
-- ⚡ Fun fact **I recently completed the Google Data Analytics Professional Certification and love applying what i learned in analyzing data for better storytelling.**
+- ⚡ Fun fact **I am a motivational speaker and Personal Trainer.**
 
--   I enjoy interacting with other Data Professionals in either learning from or offering advice.  [Win Win on both levels]**
+-   I enjoy interacting with other Data Professionals in either learning from or offering advice. 
+-   I recently completed the Google Data Analytics Professional Certification and love applying what i learned in analyzing data for better storytelling
           
  
 
