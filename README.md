@@ -2,13 +2,14 @@
 <h1 align="center">Hi 👋, I'm Kevin Harding</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/khard2bme/khard2bme/main/datascience.jpg"> </div>
 <h3 align="center">
-I have been working in the Financial Services Sector for about 15 years as a Telecommunications Engineer.
   
-  
+   I have been working in the Financial Services Sector for about 15 years as a Telecommunications Engineer.
+     
    I have a Bachelors Degree in Buisness Systems Analysis and a Masters in Management Information Systems.
+   
+   I am also a United States Marine Corps Veteran.
+   
   
-  
- I am also a United States Marine Corps Veteran.
   </h3>
   
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
