@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Machine Learning & AI**
 - 👀 I am creating Projects at this moment in my Portfolio so please stay tuned.
-- 💞️ I’m open to collaborate on data analysis projects; Job opportunities or volunteer- am
+- 💞️ I’m open to collaborate on data analysis projects (preferably Job opportunities or volunteer)
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
 - ⚡ Fun fact **I am a motivational speaker and Personal Trainer.**
