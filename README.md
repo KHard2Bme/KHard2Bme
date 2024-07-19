@@ -5,7 +5,7 @@
   
    I have been working in the Financial Services Sector for about 15 years as a Telecommunications Engineer.
      
-   I have a Bachelors Degree in Buisness Systems Analysis and a Masters in Management Information Systems.
+   I have a Bachelors Degree in Buisness Systems Analysis and a Masters in MIS.
    
    I am also a United States Marine Corps Veteran.
    
