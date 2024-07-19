@@ -53,6 +53,10 @@
 
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/7A47V5BZTPJR) - by Coursera
 
+[Python for Data Visualization: Matplotlib & Seaborn(Enhanced)](https://www.coursera.org/account/accomplishments/records/F9RKYW4U54R4) - by Coursera
+
+[Data Visualization in Excel: Build an Interactive Dashboard](https://www.coursera.org/account/accomplishments/records/FU4ATZMF37W6) - by Coursera
+
 
 
 
