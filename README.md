@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kevin Harding</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/khard2bme/khard2bme/main/datascience.jpg"> </div>
+<div align="center"> <img src="https://raw.githubusercontent.com/khard2bme/khard2bme/main/kevin Harding.png"> </div>
 <h3 align="center">
   
    I have been working in the Financial Services Sector for about 15 years as a Telecommunications Engineer.
