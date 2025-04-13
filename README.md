@@ -3,7 +3,7 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/khard2bme/khard2bme/main/Kevin Harding.png"> </div>
 <h3 align="center">
   
-   I have been working in the Financial Services Sector for about 15 years as a Telecommunications Engineer.
+   I have been working in the Financial Services Sector for about 23 years as a Telecommunications Engineer.
      
    I have a Bachelors Degree in Buisness Systems Analysis and a Masters in Management Information Systems.
    
@@ -17,14 +17,16 @@
 
 <h3 align="left"> A little more details:</h3>
 
-- 🌱 I’m currently learning **Machine Learning & AI**
-- 👀 I am creating Projects at this moment in my Portfolio so please stay tuned.
+- 🌱 I’m Currently enrolled in a comprehensive 38-weeks cloud program leveraging real-world projects and industry mentorship.
+     Acting independently and collaborating with peers in utilizing and ramping up skills in various cloud systems and other current technologies,
+     including Linux, AWS, Python, Containers, terraform and Azure.
+- 👀 I am creating Medium articles and videos of my hands-on Projects at this moment, so please stay tuned.
 - 💞️ I’m open to collaborate on data analysis projects (preferably Job opportunities or volunteer)
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
 - ⚡ Fun fact **I am a motivational speaker and Personal Trainer.**
 
--   I enjoy interacting with other Data Professionals in either learning from or offering advice. 
+-   I enjoy interacting with other Cloud, DevOps and SRE Engineers for either learning engagements or offering advice. 
 -   I recently completed the Google Data Analytics Professional Certification and love applying what i learned in analyzing data for better storytelling
           
  
