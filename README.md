@@ -21,7 +21,7 @@
      Acting independently and collaborating with peers in utilizing and ramping up skills in various cloud systems and other current technologies,
      including Linux, AWS, Python, Containers, terraform and Azure.
 - 👀 I am creating Medium articles and videos of my hands-on Projects at this moment, so please stay tuned.
-- 💞️ I’m open to collaborate on data analysis projects (preferably Job opportunities or volunteer)
+- 💞️ I’m open to collaborate on data analysis or DevOps Engineering projects (preferably Job opportunities or volunteer)
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
 - ⚡ Fun fact **I am a motivational speaker and Personal Trainer.**
