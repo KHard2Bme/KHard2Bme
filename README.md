@@ -7,8 +7,7 @@
      
    I have a Bachelors Degree in Buisness Systems Analysis and a Masters in Management Information Systems.
    
-   I am also a United States Marine Corps Veteran.
-   
+      
   
   </h3>
   
