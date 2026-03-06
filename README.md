@@ -3,11 +3,16 @@
 <div align="center"> <img src="https://raw.githubusercontent.com/khard2bme/khard2bme/main/Kevin Harding.png"> </div>
 <h3 align="center">
   
-   I have been working in the Financial Services Sector for about 23 years as a Telecommunications Engineer.
-     
-   I have a Bachelors Degree in Buisness Systems Analysis and a Masters in Management Information Systems.
-   
-      
+  I am a U.S. Marine Corps veteran with 20+ years of experience supporting mission-critical telecom and infrastructure systems within the Financial Services sector environments where reliability, security, and uptime are non-negotiable.
+
+I am currently transitioning into a Cloud DevOps / Site Reliability Engineering (SRE) role through Level Up In Tech, a 37-week, hands-on engineering program focused on real-world cloud and automation skills. Through this program, I am gaining practical experience with AWS, Terraform (Infrastructure as Code), Linux, Python, containerization (Docker), CI/CD concepts, and foundational GenAI services, while building and deploying production-style cloud projects.
+
+My professional background includes operating and maintaining large-scale, highly available systems, troubleshooting complex outages, and collaborating across engineering, network, and security teams. As a Trader Voice Engineer, I supported cloud migration initiatives from on-prem infrastructure, implemented automation and system health checks, managed VPN deployments, and ensured platform stability for latency-sensitive financial trading environments.
+
+I bring a strong foundation in networking and systems engineering, including TCP/IP, DNS, DHCP, VPNs, system administration, monitoring, and incident response—skills that translate directly to DevOps and SRE practices such as reliability engineering, observability, and automation.
+
+I am actively building a portfolio of cloud infrastructure, automation, and reliability-focused projects and am seeking an entry-level DevOps Engineer or Site Reliability Engineer role, where I can contribute to building scalable, secure, and resilient cloud platforms while continuing to grow in modern DevOps and SRE best practices.
+         
   
   </h3>
   
