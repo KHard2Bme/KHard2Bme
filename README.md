@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Kevin Harding</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/khard2bme/khard2bme/main/Kevin Harding.png"> </div>
-<h3 align="right">
+<h3 align="left">
   
   I am a U.S. Marine Corps veteran with 20+ years of experience supporting mission-critical telecom and infrastructure systems within the Financial Services sector environments where reliability, security, and uptime are non-negotiable.
 
