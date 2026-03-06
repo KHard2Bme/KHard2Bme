@@ -5,7 +5,7 @@
   
  I bring 20+ years of experience supporting mission-critical telecom and infrastructure systems in the Financial Services industry,high-stakes environments where reliability, security, and uptime are non-negotiable.
 
-I’m currently transitioning into Cloud DevOps / Site Reliability Engineering through Level Up In Tech, a 37-week hands-on engineering program focused on real-world cloud and automation. I’m building production style cloud projects while developing practical experience with modern DevOps tooling.
+I’m currently transitioning into Cloud DevOps / Site Reliability Engineering through Level Up In Tech, a 38-week hands-on engineering program focused on real-world cloud and automation. I’m building production style cloud projects while developing practical experience with modern DevOps tooling.
 
 What I’m Working With:
 
@@ -51,11 +51,8 @@ I am seeking an early career DevOps or Cloud Engineer role where I can help buil
 
 <h3 align="left"> A little more details:</h3>
 
-- 🌱 I’m Currently enrolled in a comprehensive 38-weeks cloud program leveraging real-world projects and industry mentorship.
-     Acting independently and collaborating with peers in utilizing and ramping up skills in various cloud systems and other current technologies,
-     including Linux, AWS, Python, Containers, terraform and Azure.
-- 👀 I am creating Medium articles and videos of my hands-on Projects at this moment, so please stay tuned.
-- 💞️ I’m open to collaborate on data analysis or DevOps Engineering projects (preferably Job opportunities or volunteer)
+- 👀 I am creating Medium articles and videos of my hands-on Projects on YouTube at this moment, so please stay tuned.
+- 💞️ I’m open to collaborate on Cloud Engineering and DevOps Engineering projects
 - 📫 How to reach me **harding_kevin@hotmail.com**
 
 - ⚡ Fun fact **I am a motivational speaker and Personal Trainer.**
