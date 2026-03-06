@@ -7,7 +7,7 @@
 
 I’m currently transitioning into Cloud DevOps / Site Reliability Engineering through Level Up In Tech, a 37-week hands-on engineering program focused on real-world cloud and automation. I’m building production style cloud projects while developing practical experience with modern DevOps tooling.
 
-What I’m Working With
+What I’m Working With:
 
 • AWS
 • Terraform (Infrastructure as Code)
@@ -17,7 +17,7 @@ What I’m Working With
 • CI/CD concepts
 • Foundational GenAI services
 
-Professional Background
+Professional Background:
 
 Previously worked as a Trader Voice Engineer supporting highly available trading environments. My responsibilities included:
 
@@ -28,7 +28,7 @@ Previously worked as a Trader Voice Engineer supporting highly available trading
 • Collaborating across engineering, network, and security teams
 • Maintaining platform stability for latency-sensitive trading systems
 
-Core Technical Foundation
+Core Technical Foundation:
 
 • TCP/IP Networking
 • DNS / DHCP
@@ -37,7 +37,7 @@ Core Technical Foundation
 • Monitoring & observability
 • Incident response
 
-Current Focus
+Current Focus:
 
 I am seeking an early career DevOps or Cloud Engineer role where I can help build scalable, secure, and resilient cloud platforms while continuing to grow in modern DevOps and Cloud Engineering practices.
 
