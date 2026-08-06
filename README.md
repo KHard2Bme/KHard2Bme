@@ -83,6 +83,8 @@ I am seeking an early career DevOps or Cloud Engineer role where I can help buil
 
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
+[https://www.credly.com/badges/c995d32b-330e-4132-8aa2-dee8b9100cd6/public_url] - AWS Certified Solutions Architect - Associate
+
 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/7A47V5BZTPJR) - by Coursera
 
 [Python for Data Visualization: Matplotlib & Seaborn(Enhanced)](https://www.coursera.org/account/accomplishments/records/F9RKYW4U54R4) - by Coursera
